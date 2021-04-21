@@ -1,0 +1,19 @@
+R 640 480
+NO ../xpmsprites/wood.XPM
+SO ../xpmsprites/redbrick.XPM
+WE ../xpmsprites/colorstone.XPM
+EA ../xpmsprites/bluestone.XPM
+
+S ../xpmsprites/barrel.XPM
+F 220,100,0
+C 225,30,0
+
+1111111111111
+1100011001111
+1000001000011
+1002010101111
+111000N001111
+1000100001111
+1000000110001
+1000100100001
+1111111111111
